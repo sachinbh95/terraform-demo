@@ -1,8 +1,8 @@
 {
     "provider": {
         "aws": {
-            "region": "us-west-2",
-            "profile": "developer"
+            "region": "${var.region}",
+            "profile": "${var.profile}"
         }
     }
 }
