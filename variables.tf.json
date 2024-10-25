@@ -11,6 +11,14 @@
         "tags": {
             "type": "map",
             "description": "This is tags Value"
+        },
+        "region": {
+            "type": "string",
+            "description": "This is region Value"
+        },
+        "profile": {
+            "type": "string",
+            "description": "This is profile Value"
         }
     },
     "output": {
